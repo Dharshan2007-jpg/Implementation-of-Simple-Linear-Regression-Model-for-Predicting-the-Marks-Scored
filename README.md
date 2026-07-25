@@ -87,9 +87,7 @@ print("\nPredictions for new hours", new_hours.flatten(), "=>", np.round(pred_ne
 
 <img width="660" height="489" alt="image" src="https://github.com/user-attachments/assets/14750a07-7a6e-4945-a07b-1e41b7a153de" />
 
-
 <img width="658" height="486" alt="image" src="https://github.com/user-attachments/assets/bbd33e7b-c018-4cb4-a4af-91cefc61e230" />
-
 
 ~~~
 Mean Absolute Error (MAE): 4.691397441397446
@@ -98,6 +96,5 @@ Root Mean Squared Error (RMSE): 5.046115410711748
 
 Predictions for new hours [2.5 8. ] => [26.73 80.03]
 ~~~
-
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
